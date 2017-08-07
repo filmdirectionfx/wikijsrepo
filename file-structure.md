@@ -1,4 +1,4 @@
-<!-- TITLE: File Structure -->
-<!-- SUBTITLE: A quick summary of File Structure -->
+<!-- TITLE: Структура на диске -->
+<!-- SUBTITLE: Как мы организовываем проекты на хранилище и в Серебро -->
 
-# Header
+## Общая информация
