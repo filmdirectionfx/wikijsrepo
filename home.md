@@ -1,4 +1,4 @@
-<!-- TITLE: Film Direction FX Wiki -->
+<!-- TITLE: Studio Wiki -->
 <!-- SUBTITLE: VFX knowledge base -->
 
 # Студия
